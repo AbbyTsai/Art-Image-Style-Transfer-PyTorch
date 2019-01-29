@@ -9,6 +9,8 @@ https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_St
 Pre-trained model:VGG19
 
 loss of total = α * loss of content + β * loss of style
+
 α,β: weight for content and style reconstruction, respectively. 
+
      one of both could trade-off to create opposite visually image. 
      
