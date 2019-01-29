@@ -1,4 +1,5 @@
 # Art image-Style-Transfer-PyTorch
+![art_image.png](art_image.png)
 
 References: Udacity/PyTorch Scholarship Challenge from facebook program
 
@@ -13,5 +14,5 @@ loss of total = α * loss of content + β * loss of style
 α,β: weight for content and style reconstruction, respectively. 
 
      one of both could trade-off to create opposite visually image. 
-     
-![art_image.png](https://drive.google.com/file/d/1RYUJhbvnE6UxEzDjxgHEpZea3HNxbMlu/view?usp=sharing)
+   
+![art_image.png](https://github.com/AppleTsai/Art-Image-Style-Transfer-PyTorch/master/art_image.png)
