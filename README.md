@@ -14,3 +14,4 @@ loss of total = α * loss of content + β * loss of style
 
      one of both could trade-off to create opposite visually image. 
      
+![image](https://drive.google.com/open?id=1RYUJhbvnE6UxEzDjxgHEpZea3HNxbMlu)
