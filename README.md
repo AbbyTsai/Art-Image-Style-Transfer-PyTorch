@@ -16,11 +16,11 @@ total of loss = α * content of loss + β * style of loss
      one of both could be traded-off with another
 
      
-
+  Art_image
 ![](art_image.png)
 
 
 
-content_image.png
+  Content_image
 ![](content_image.png)
 
